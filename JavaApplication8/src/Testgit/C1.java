@@ -13,5 +13,6 @@ public class C1 {
     
     public static void c1() {
         System.out.println("C1 creer par test1");
+        System.out.println("c2 version 2 par E2");
     }
 }
